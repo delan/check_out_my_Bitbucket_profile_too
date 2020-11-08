@@ -30,7 +30,7 @@
       <sub>cmatrix clone in three eighths of a PC MBR<br>x86 (nasm)</sub>
     <td width="50%">
       <b><a href="https://bitbucket.org/delan/badapple.rs">badapple.rs</a></b><br>
-      <sub><svg></svg>Bad Apple!! for taskmgr<br>Rust</sub>
+      <sub>Bad Apple!! for taskmgr<br>Rust</sub>
   <tr>
     <td width="50%">
       <b><a href="https://bitbucket.org/delan/ing2ynab">ing2ynab</a></b><br>
