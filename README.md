@@ -12,8 +12,18 @@
 
 <table>
   <tr>
-    <!-- stylesheet has table{width:max-content;max-width:100%} so use td@width=9999999 over table@width=100% -->
-    <td bgcolor="blue" colspan="2" width="9999999" align="center"><h1><samp><a href="https://www.azabani.com">~</a> : <a href="https://www.azabani.com">~/about/</a> : <a href="https://www.azabani.com">~/labs/</a> : <a href="https://bitbucket.org/delan">bitbucket</a> : <a href="https://twitter.com/dazabani">@dazabani</a></samp>
+    <!--
+      stylesheet has table{width:max-content;max-width:100%}
+      so use td@width=9999999 over table@width=100%
+    -->
+    <td bgcolor="blue" colspan="2" width="9999999" align="center">
+      <h1><samp>
+        <a href="https://www.azabani.com">~</a>
+        : <a href="https://www.azabani.com">~/about/</a>
+        : <a href="https://www.azabani.com">~/labs/</a>
+        : <a href="https://bitbucket.org/delan">bitbucket</a>
+        : <a href="https://twitter.com/dazabani">@dazabani</a>
+      </samp></h1>
   <tr>
     <td width="50%">
       <b><a href="https://bitbucket.org/delan/matrix86">matrix86</a></b><br>
