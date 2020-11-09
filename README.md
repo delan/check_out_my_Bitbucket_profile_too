@@ -18,9 +18,9 @@
     -->
     <td bgcolor="blue" colspan="2" width="9999999" align="center">
       <h1><samp>
-        <a href="https://www.azabani.com">~</a>
-        : <a href="https://www.azabani.com">~/about/</a>
-        : <a href="https://www.azabani.com">~/labs/</a>
+        <a href="https://www.azabani.com/">~</a>
+        : <a href="https://www.azabani.com/about/">~/about/</a>
+        : <a href="https://www.azabani.com/labs/">~/labs/</a>
         : <a href="https://bitbucket.org/delan">bitbucket</a>
         : <a href="https://twitter.com/dazabani">@dazabani</a>
       </samp></h1>
