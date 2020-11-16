@@ -26,15 +26,19 @@
       </samp></h1>
   <tr>
     <td width="50%">
+      <b><a href="https://bitbucket.org/delan/xd">xd</a></b><br>
+      <sub>dumps binary input in a variety of formats<br>Rust</sub>
+    <td width="50%">
       <b><a href="https://bitbucket.org/delan/matrix86">matrix86</a></b><br>
       <sub>cmatrix clone in three eighths of a PC MBR<br>x86 (nasm)</sub>
+  <tr>
     <td width="50%">
       <b><a href="https://bitbucket.org/delan/badapple.rs">badapple.rs</a></b><br>
       <sub>Bad Apple!! for taskmgr<br>Rust</sub>
-  <tr>
     <td width="50%">
       <b><a href="https://bitbucket.org/delan/ing2ynab">ing2ynab</a></b><br>
       <sub>cleans up ing.com.au transactions for YNAB<br>Rust</sub>
+  <tr>
     <td width="50%">
       <b><a href="https://bitbucket.org/delan/daria.daz.cat">daria.daz.cat</a></b><br>
       <sub>root overlay for my home router<br>POSIX sh</sub>
